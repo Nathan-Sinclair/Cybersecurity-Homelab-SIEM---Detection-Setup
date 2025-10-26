@@ -28,3 +28,4 @@ Refer to Cybersecurity-Homelab-Building-The-Environment readme.
 
 ## Documentation/Step By Step Guide:
 Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
+[Documentation](Cybersecurity-Homelab-SIEM-&-Detection-Setup%20Documentation.pdf)
