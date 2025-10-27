@@ -1,6 +1,6 @@
 # Cybersecurity-Homelab-SIEM-Detection-Setup
 ## Purpose:
-Configured Wazuh SIEM and endpoint monitoring across Linux and Windows VMs, continuing from Cybersecurity Homelab: Building the Environment. Set up alerts for SSH authentication failures, WinRM logins, and sensitive file modifications to simulate real-world attack detection and response within a controlled lab environment. The next installment is Cybersecurity Homelab: Vulnerability & Attack Simulation.
+Configured Wazuh SIEM and endpoint monitoring across Linux and Windows VMs, continuing from Cybersecurity Homelab: Building the Environment. Set up alerts for SSH authentication failures, WinRM logins, and sensitive file modifications to simulate real-world attack detection and response within a controlled lab environment. The next installment is Cybersecurity Homelab: Attack Simulation.
 
 ## Implementation:
 - Configured Wazuh SIEM on Security Server 2, integrating Linux and Windows agents.
