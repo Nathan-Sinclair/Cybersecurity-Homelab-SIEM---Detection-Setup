@@ -9,6 +9,10 @@ Configured Wazuh SIEM and endpoint monitoring across Linux and Windows VMs, cont
 - Built detection and alerting workflows for failed SSH logins, successful WinRM logons, and file modifications.
 - Documented all configurations, rules, monitors, and alerts with screenshots for reproducibility and lab-based testing.
 
+## Documentation/Step By Step Guide:
+Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
+[Here Is The Link](Cybersecurity-Homelab-SIEM-&-Detection-Setup%20Documentation.pdf)
+
 ## Skills Demonstrated:
 - **SIEM Setup & Management** – Configured Wazuh, created monitors, triggers, and alerts for Windows and Linux endpoints.
 - **Vulnerability Simulation** – Deployed insecure SSH, WinRM, and RDP for detection testing.
@@ -25,10 +29,6 @@ Configured Wazuh SIEM and endpoint monitoring across Linux and Windows VMs, cont
 
 ## Prerequisites & Dependencies:
 Refer to Cybersecurity-Homelab-Building-The-Environment readme.
-
-## Documentation/Step By Step Guide:
-Full step-by-step setup and configuration instructions are provided in the accompanying PDF file.  
-[Here Is The Link](Cybersecurity-Homelab-SIEM-&-Detection-Setup%20Documentation.pdf)
 
 ## Credits:
 
